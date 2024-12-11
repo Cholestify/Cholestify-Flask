@@ -1,0 +1,151 @@
+No.,food_id,food,Caloric Value,Fat,Saturated Fats,Carbohydrates,Protein,Cholesterol
+1,FD0001,Oatmeal,380,9.93,0.94,69.1,13.7,0
+2,FD0002,Udon,105,0.63,0.09,21.6,2.6,0
+3,FD0003,Macaroni and Spaghetti,165,1.56,0.21,32,5.4,0
+4,FD0004,Nonglutinous White Rice,168,0.57,0.1,37.1,2.5,0
+5,FD0005,Glutinous White Rice,202,0.79,0.15,43.9,3.5,0
+6,FD0006,Brown Rice,165,1.76,0.23,35.6,2.8,0
+7,FD0007,Onigiri,179,0.57,0.1,39.4,2.7,0
+8,FD0008,Rice Cake,234,0.96,0.17,50.8,4,0
+9,FD0009,Boiled Noodle,132,1.75,0.21,26,4.8,0
+10,FD0010,Salted Popcorn,484,42.49,6.3,59.6,10.2,0
+11,FD0011,Cornflakes,381,2.37,0.42,83.6,7.8,0
+12,FD0012,Baked Sweet Potato,163,0.16,0.03,39,1.4,0
+13,FD0013,Steamed Purple Sweet Potato,133,0.19,0.05,31.7,1.2,0
+14,FD0014,Steamed Potato,84,0.03,0.01,19.7,1.5,0
+15,FD0015,Boiled Potato,73,0.03,0.01,16.8,1.5,0
+16,FD0016,Mashed Potato,357,0.97,0.3,82.8,6.6,0
+17,FD0017,Honey,294,0,0,79.7,0.2,0
+18,FD0018,Boiled Red Beans,143,1.15,0.11,24.8,8.5,0
+19,FD0019,Soft Tofu,59,5.88,0.53,2,5.1,0
+20,FD0020,Soy Milk,46,3.54,0.32,3.1,3.6,0
+21,FD0021,Tempeh,202,15.3,1.2,15.4,15.8,0
+22,FD0022,Raw Almond,587,101.58,3.95,20.9,19.6,0
+23,FD0023,Roasted and Salted Cashew Nuts,576,93.69,9.97,26.7,19.8,0
+24,FD0024,Boiled Asparagus,24,0.17,0.02,4.6,2.6,0
+25,FD0025,Boiled Green Peas,110,0.18,0.02,18.5,8.3,0
+26,FD0026,Boiled Cauliflower,26,0.17,0.05,5.1,2.7,0
+27,FD0027,Cabbage,23,0.15,0.02,5.2,1.3,0
+28,FD0028,Cucumber,14,0.02,0.01,3,1,0
+29,FD0029,Boiled Green Bok Choy,12,0.17,0.01,2.4,0.9,0
+30,FD0030,Sautéed Green Bok Choy,39,6.09,0.24,2.2,0.8,0
+31,FD0031,Boiled Sweet Corn,99,2.59,0.26,18.6,3.5,0
+32,FD0032,Cherry Tomatoes,29,0.16,0.02,7.2,1.1,0
+33,FD0033,Boiled Carrot,45,0.2,0.02,9.6,1.9,0
+34,FD0034,Red Sweet Peppers,30,0.17,0.02,7.2,1,0
+35,FD0035,Sautéed Red Sweet Peppers,69,8,0.31,7.6,1,0
+36,FD0036,Broccoli,33,0.41,0.06,5.2,4.3,0
+37,FD0037,Boiled Broccoli,27,0.37,0.05,4.3,3.5,0
+38,FD0038,Boiled Spinach,25,0.58,0.05,4,2.6,0
+39,FD0039,Mung Bean Sprout,14,0.18,0.03,2.6,1.7,0
+40,FD0040,Rocket Salad,19,0.23,0.05,3.1,1.9,0
+41,FD0041,Green Leaf Lettuce,16,0.16,0.01,3.3,1.4,0
+42,FD0042,Red Leaf Lettuce,16,0.19,0.02,3.2,1.2,0
+43,FD0043,Avocados,187,33.09,3.21,6.2,2.5,0
+44,FD0044,Apricots,36,0.41,0.02,8.5,1,0
+45,FD0045,Strawberries,34,0.17,0.01,8.5,0.9,0
+46,FD0046,Dates,266,0.05,0.02,71.3,2.2,0
+47,FD0047,Oranges,46,0.15,0.01,11.8,0.9,0
+48,FD0048,White Grapefruit,38,0.14,0.01,9.6,0.9,0
+49,FD0049,Red Grapefruit,38,0,0,9.6,0.9,0
+50,FD0050,Limes,27,0,0,9.3,0.4,0
+51,FD0051,Lemons,54,0.38,0.05,12.5,0.9,0
+52,FD0052,Green Kiwifruit,53,0.19,0.01,13.5,1,0
+53,FD0053,Yellow Kiwifruit,59,0.37,0.06,14.9,1.1,0
+54,FD0054,Red Guava,38,0,0,9.9,0.6,0
+55,FD0055,White Guava,38,0,0,9.9,0.6,0
+56,FD0056,Coconut,20,0,0,5,0.2,0
+57,FD0057,Sweet Cherries,60,0.24,0.04,15.2,1,0
+58,FD0058,Pomegranates,56,0,0,15.5,0.2,0
+59,FD0059,Red Watermelon,37,0.16,0.01,9.5,0.6,0
+60,FD0060,Yellow Watermelon,37,0,0,9.5,0.6,0
+61,FD0061,Plums,44,0,0,9.4,0.6,0
+62,FD0062,Durian,133,5.44,1.18,27.1,2.3,0
+63,FD0063,Pears,43,0.15,0.01,11.3,0.3,0
+64,FD0064,Pineapple,51,0.15,0.01,13.4,0.6,0
+65,FD0065,Passion Fruit,64,0,0,16.2,0.8,0
+66,FD0066,Bananas,86,0.23,0.07,22.5,1.1,0
+67,FD0067,Dried Bananas,299,0.42,0.12,78.5,3.8,0
+68,FD0068,Papaya,39,0.18,0.03,9.4,1.3,0
+69,FD0069,Grapes,59,0.02,0.01,15.7,0.4,0
+70,FD0070,Blueberries,49,0.16,0.01,12.9,0.5,0
+71,FD0071,Yellow Melon,32,0,0,7.8,0.8,0
+72,FD0072,White Melon,32,0,0,7.8,0.8,0
+73,FD0073,Mangoes,64,0.18,0.02,16.9,0.6,0
+74,FD0074,Mangosteen,67,0,0,17.5,0.6,0
+75,FD0075,Muskmelon,42,0.17,0.03,10.3,1.1,0
+76,FD0076,Peaches,40,0.17,0.01,10.2,0.6,0
+77,FD0077,Lychees,63,0.18,0.02,16.4,1,0
+78,FD0078,Red Raspberries,41,0,0,10.2,1.1,0
+79,FD0079,Apples,61,0.17,0.02,16.2,0.2,0
+80,FD0080,Boiled Enoki Mushrooms,22,0.15,0.01,7.8,2.8,0
+81,FD0081,Abalone Mushrooms,19,0.35,0.03,4.9,3.7,0
+82,FD0082,Boiled Oyster Mushrooms,21,0.18,0.02,6.6,3.4,0
+83,FD0083,Boiled Mackerel Fish,151,9.03,1.45,0.1,22.4,81
+84,FD0084,Baked Mackerel Fish,170,9.95,1.57,0.1,25.9,94
+85,FD0085,Breaded and Fried Mackerel Fish,276,33.23,2.25,7.9,20.1,80
+86,FD0086,Boiled Sardine,178,13.34,2.37,0.2,22.4,68
+87,FD0087,Baked Sardine,196,14.32,2.53,0.2,25.3,80
+88,FD0088,Breaded and Fried Sardine,396,54.78,3.9,10.7,20,78
+89,FD0089,Tuna Fillet,356,3.56,0.62,0.8,77.1,180
+90,FD0090,Raw Salmon,154,10.03,1.23,0.1,21.7,58
+91,FD0091,Baked Salmon,191,12.15,1.43,0.1,28.1,88
+92,FD0092,Boiled Snow Crab,69,0.63,0.05,0.1,15,61
+93,FD0093,Boiled Red King Crab,80,0.56,0.05,0.3,17.5,53
+94,FD0094,Fried Squid,125,2.17,0.569,9.9,15.13,217
+95,FD0095,Sweet and Sour Shrimp,269,16.84,2.134,25.12,6.56,58
+96,FD0096,Sweet Rolled Omelet,196,12.29,1.78,17.6,14.6,180
+97,FD0097,Boiled Fishcake,94,1.71,0.18,11.4,9.9,15
+98,FD0098,Chicken Karage,255,20.59,1.62,12.7,25.4,100
+99,FD0099,Chicken Meatball,235,28.9,3.98,9.3,15.2,85
+100,FD0100,Stir-Fried Ground Chicken,235,26.8,4.17,0,27.5,120
+101,FD0101,Salted Egg,146,17.81,2.97,0.1,10.8,400
+102,FD0102,Boiled Egg,151,16.8,2.7,0.3,12.9,420
+103,FD0103,Sweet Rolled Omelet,151,14.86,2.36,6.4,10.8,350
+104,FD0104,Omelet Roll,128,14.68,2.34,0.5,11.2,370
+105,FD0105,Milk,67,6.82,2.33,4.8,2.9,12
+106,FD0106,Low-Fat Milk,46,1.93,0.67,5.5,3.8,6
+107,FD0107,Coffee with Milk,4,0.08,0.04,0.48,0.18,0
+108,FD0108,Fruit Flavored Milk,46,0.38,0.13,9.9,1.2,2
+109,FD0109,Evaporated Milk,144,14.61,4.88,11.2,6.8,27
+110,FD0110,Whole Milk Yogurt Unsweetened,62,5.44,1.83,4.9,3.6,12
+111,FD0111,Cheese Cheddar,423,62.52,20.52,1.4,25.7,100
+112,FD0112,Cheese Mozzarella,300,22.35,13.152,2.19,22.17,79
+113,FD0113,Sweet Agar Jelly,288,0,0,72,0,0
+114,FD0114,Sweet Dumplings,304,0.57,0.1,73.5,1.7,0
+115,FD0115,Sweet Rice Cake,248,0.57,0.1,59.3,2.1,0
+116,FD0116,Fried Bread,377,34.78,3.34,43.5,8.7,3
+117,FD0117,Toasted Bread with Custard Cream Filling,305,19.56,4.65,41.4,10.3,130
+118,FD0118,Toast Filled with Strawberry Jam,297,10.76,2.58,54.5,6.6,0
+119,FD0119,Toast Filled with Chocolate Cream,348,34.38,7.14,39.5,5.5,8
+120,FD0120,Cream Puffs with Custard Cream,228,19.34,5.26,25.6,6,230
+121,FD0121,Sponge Cake,298,8.82,1.48,53.8,8.1,170
+122,FD0122,Baked Cheesecake,318,37.2,11.99,23.3,8.5,170
+123,FD0123,Waffle Stuffed with Cream Custard,252,13.66,2.63,38.1,7.3,170
+124,FD0124,Caramel Pudding,126,8.01,1.92,14.7,5.5,140
+125,FD0125,Milk Pudding,65,2.32,0.79,12.2,1.1,4
+126,FD0126,Waffers Biscuits,454,23.43,5.95,75.3,7.6,18
+127,FD0127,Waffers Biscuits with Cream,499,40.8,10.95,69.4,5.9,15
+128,FD0128,Corn Snacks,526,49.7,9.97,65.3,5.2,0
+129,FD0129,Potato Chip Snacks,554,66.94,3.86,54.7,4.7,0
+130,FD0130,Chocolate with Almonds,583,77.49,14.19,43.4,11.4,0
+131,FD0131,Chocolate-Covered Biscuit,511,47.29,14.05,63.4,7,13
+132,FD0132,Green Tea,1,0,0,0.2,0,0
+133,FD0133,Coffee,1,0.02,0.002,0.04,0.12,0
+134,FD0134,Pie Pastry,435,60.47,6.98,25.2,7.7,1
+135,FD0135,Black Tea,1,0,0,0,0,0
+136,FD0136,Butter Cake,443,44.85,14.64,47.9,5.8,170
+137,FD0137,Thick Pancake,261,9.38,2.07,45.2,7.7,84
+138,FD0138,Chicken Soto,130,0.19,1.601,18.11,9.96,53
+139,FD0139,Fried Rice,168,6.23,1.137,21.06,6.3,52
+140,FD0140,Beef Rendang,195,11.07,6.482,4.49,19.68,29
+141,FD0141,Chicken Porridge,155,5.16,1.4,15.05,11.48,30
+142,FD0142,Vegetable Pecel,244,10.93,1.543,30.07,9.91,0
+143,FD0143,Egg Martabak,185,7.68,2.56,18.52,9.9,145
+144,FD0144,Chicken Satay,225,14.82,3.429,4.87,19.54,49
+145,FD0145,Sweet Martabak,300,12.57,5.241,41.52,7.78,73
+146,FD0146,Gado-Gado,132,7.41,1.386,10.9,7.14,78
+147,FD0147,Siomay,138,2.29,0.585,16.3,12.26,43
+148,FD0148,Chicken Gulai,168,12.4,7.584,3.33,11.94,35
+149,FD0149,Grilled Ribs,254,19,7.613,0.94,19.1,68
+150,FD0150,Fried Banana,252,13.27,1.783,36.07,1.47,0
