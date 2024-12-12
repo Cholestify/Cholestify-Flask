@@ -11,5 +11,6 @@ The `Cholestify-Flask` folder contains files for deploying the Food Recommendati
 1. Navigate to the `deploy` folder:
    ```bash
    cd deploy
-
+### Running Endpoint in CMD
+![Screenshot 2024-12-11 203635](https://github.com/user-attachments/assets/f47d5fd4-d458-46a9-bd1d-33a7d70b3446)
    
